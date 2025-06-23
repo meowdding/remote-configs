@@ -1,2 +1,22 @@
 {
+    "*": {
+        "slayer": {
+            "enableBlazeHighlight": {
+                "@value": false,
+                "@message": "§cSlayer highlights are currently disabled.\nThis is due to them being through walls and also sometimes applying wrongly."
+            },
+            "highlightOwnBoss": {
+                "@value": false,
+                "@message": "§cSlayer highlights are currently disabled.\nThis is due to them being through walls and also sometimes applying wrongly."
+            },
+            "highlightMini": {
+                "@value": false,
+                "@message": "§cSlayer highlights are currently disabled.\nThis is due to them being through walls and also sometimes applying wrongly."
+            },
+            "highlightBigBoys": {
+                "@value": false,
+                "@message": "§cSlayer highlights are currently disabled.\nThis is due to them being through walls and also sometimes applying wrongly."
+            }
+        }
+    }
 }
