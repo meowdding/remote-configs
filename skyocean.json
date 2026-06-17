@@ -1,5 +1,11 @@
 {
     "*": {
+        "fishing": {
+            "lavaReplacement": {
+                "@value": false,
+                "@message": "§cCauses Crashes on 26.1"
+            }
+        },
         "slayer": {
             "enableBlazeHighlight": {
                 "@value": false,
